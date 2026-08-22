@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Lorem Generator",
+  "version": "1.0.0",
+  "description": "Generate customizable placeholder Latin text, sentences, and paragraphs offline.",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "permissions": [],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Lorem Generator"
+  }
+}
